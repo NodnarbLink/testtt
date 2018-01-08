@@ -1,0 +1,32 @@
+Need to enable the CDN for font awesome to work
+http://fontawesome.io/
+
+<script src="https://use.fontawesome.com/f158bdf0af.js"></script>
+
+
+
+I got some errors when installing 
+
+
+npm install react-sortable-table
+
+
+I had to do a 
+
+
+npm cache verify
+
+
+to get it to work... see this url for more fixes - https://stackoverflow.com/questions/22325031/npm-please-try-using-this-command-again-as-root-administrator
+
+
+
+
+
+that table is all fucked... 2 years old, needs to be updated...
+
+
+check the fork that was updated on August 29th... probably works but the guy looks to be programming in an unorthodox/old way
+
+
+https://github.com/Rudolph-Miller/react-sortable-table/network
